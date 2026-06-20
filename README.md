@@ -1,12 +1,16 @@
 # HpletonUnciv
 
-Mod for Unciv.
+A custom mod for Unciv.
 
-## About
-This project is a modification for the open-source strategy game Unciv.
+## Features
+- Civilization: Ukraine
+- Base structure ready
 
 ## Status
 Work in progress 🚧
+
+## Game
+Built for Unciv open-source strategy game.
 
 ## Author
 u7019134065-png
