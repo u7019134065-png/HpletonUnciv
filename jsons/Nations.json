@@ -1,18 +1,16 @@
 [
   {
     "name": "Ukraine",
+    "leaderName": "Volodymyr",
     "adjective": "Ukrainian",
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Scientific",
     "cities": [
-      "Dnipropetrovsk Region",
       "Kyiv Region",
       "Lviv Region",
-      "Kharkiv Region",
       "Odesa Region",
-      "Zaporizhzhia Region",
-      "Poltava Region",
-      "Vinnytsia Region"
-    ],
-    "startBias": "Plains",
-    "preferredVictoryType": "Scientific"
+      "Kharkiv Region",
+      "Dnipro Region"
+    ]
   }
 ]
